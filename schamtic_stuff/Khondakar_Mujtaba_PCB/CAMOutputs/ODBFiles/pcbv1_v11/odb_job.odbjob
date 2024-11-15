@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-05-10T19:23:37Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCBV1 v11"
+        },
+        "Owner": "Khondakar Mujtaba <kmujtaba@scu.edu>",
+        "Size": {
+            "X": 60,
+            "Y": 60
+        }
+    }
+}
